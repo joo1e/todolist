@@ -2,10 +2,10 @@ import Header from "./components/layout/Header";
 
 const App = () => {
   return (
-  <div>
-    <Headeer />
-  </div>
-  )
+    <div>
+      <Header />
+    </div>
+  );
 };
 
 export default App;
